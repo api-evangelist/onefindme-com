@@ -1,4 +1,4 @@
-# onefindme-com
+# OneFindMe
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -64,5 +64,116 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-onefindme-com is a company surfaced via the API Evangelist harvest backlog (source: mcp-registry) and added to the network as a stub for full-pipeline profiling.
-- https://onefindme.com/
+OneFindMe is an independent content site and product search tool that helps users find and compare items on AliExpress and eBay across multiple languages. It offers free tools such as currency conversion, size tables, customs calculators, package tracking, image search, and a Chrome extension, all without registration or payment. The service earns affiliate commissions from partner stores.
+
+**Areas:** Search · E-commerce · Affiliate · Multilingual · Tools
+
+## OneFindMe on APIs.io
+
+Everything profiled for OneFindMe is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/onefindme-com/](https://apis.io/providers/onefindme-com/)** — or go straight to one of the APIs or properties below.
+
+### APIs (1)
+
+- [OneFindMe Search API](https://apis.io/apis/onefindme-com/onefindme-com-search-api/) — The Search API from OneFindMe — 1 operation(s) for search.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Agentic access (1)
+
+Which operations an agent can call, which act, and which need a human in the loop.
+
+- [OneFindMe Agentic Access](https://apis.io/agentic-access/onefindme-com/onefindme-com-agentic-access/)
+
+#### JSON Schema (1)
+
+The data models the API reads and writes.
+
+- [SearchResult](https://apis.io/schemas/onefindme-com/onefindme-com-search-result/)
+
+#### JSON-LD (1)
+
+Linked-data contexts for the provider's vocabulary.
+
+- [Onefindme Com Context](https://apis.io/jsonld/onefindme-com/onefindme-com-context/)
+
+#### Governance rules (1)
+
+Spectral rulesets for the provider's contracts.
+
+- [OneFindMe API Rules](https://apis.io/rules/onefindme-com/onefindme-com-rules/)
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [OneFindMe Domain Security](https://apis.io/security/onefindme-com/onefindme-com-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://onefindme.com/)
+- [Documentation](https://onefindme.com/guides/)
+- [API reference](https://onefindme.com/llms.txt)
+- [Blog](https://onefindme.com/blog/)
+- [Trust centre](https://onefindme.com/ar/trust/)
+- [Terms of service](https://onefindme.com/terms)
+- [Privacy policy](https://onefindme.com/privacy)
+
+## API Evangelist rating
+
+**Kin Score 38.6** — thin · rubric 0.28.0 · scored 2026-11-19
+
+| Facet | Score |
+|---|---|
+| Discoverability | 75.0 |
+| Contract quality | 51.2 |
+| Contract governance | 79.1 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 19.0 |
+| Access clarity | 23.4 |
+
+**Agent readiness 28.7** — agent-ready
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | yes |
+| Agentic Access | unknown |
+| Reversibility Documented | — |
+| MCP Server | documented (partial credit) |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | derived (partial credit) |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | yes |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+| Pagination Ratio | paginated |
+| Operation Distinctiveness | na |
+| MCP Tool Quality | na |
+
+**Regulatory alignment 17.6** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/onefindme-com/](https://apis.io/providers/onefindme-com/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for OneFindMe: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/onefindme-com/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
